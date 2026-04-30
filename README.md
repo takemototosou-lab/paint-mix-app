@@ -1,5 +1,5 @@
 # paint-mix-app
-[paint.html](https://github.com/user-attachments/files/27230897/paint.html)
+[index.html](https://github.com/user-attachments/files/27230897/paint.html)
 <!DOCTYPE html>
 <html lang="ja">
 <head>
